@@ -1,5 +1,5 @@
 fun main() {
-    greetJane("Jane")
+    greetJane("Sabdio")
     numbers(0)
     hasVisitedCapital("Nigerian")
     hasVisitedCapital("Tanzanian")
@@ -13,8 +13,8 @@ fun main() {
 }
 
 fun greetJane(name: String) {
-    if (name == "Jane") {
-        println("Hello Jane")
+    if (name == "Sabdio") {
+        println("Hello Sabdio")
     } else {
         println("Who are you")
     }
